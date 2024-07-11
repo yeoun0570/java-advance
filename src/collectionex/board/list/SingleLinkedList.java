@@ -1,6 +1,4 @@
-package list;
-
-import javax.xml.transform.sax.SAXResult;
+package collectionex.board.list;
 
 public class SingleLinkedList<T> {
 

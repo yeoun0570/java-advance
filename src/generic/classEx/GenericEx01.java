@@ -19,6 +19,11 @@ public class GenericEx01 {
     String model2 = p2.getModel();
     System.out.println(volvoCar + " " + model2);
 
+    Box<Doll> box = new Box<Doll>();
+    box.content = new Doll();
+    System.out.println(box.content.name);
+
+
   }
 
 }

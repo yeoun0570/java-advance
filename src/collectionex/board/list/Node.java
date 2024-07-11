@@ -1,4 +1,4 @@
-package list;
+package collectionex.board.list;
 
 public class Node <T>{
   T data;

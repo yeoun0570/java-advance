@@ -1,4 +1,4 @@
-package collectionex.board;
+package collectionex.board.board;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

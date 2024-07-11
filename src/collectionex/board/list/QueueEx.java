@@ -1,4 +1,4 @@
-package list;
+package collectionex.board.list;
 
 import java.util.LinkedList;
 import java.util.Queue;

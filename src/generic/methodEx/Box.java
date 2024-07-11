@@ -7,7 +7,7 @@ public class Box <T> {
     return this.type;
   }
 
-  public void set(T type) { //제네릭 메서드 set
+  public void set(T type) { //제네릭 메서드 collectionex.board.set
     this.type = type;
   }
 
