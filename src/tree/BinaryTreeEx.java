@@ -12,6 +12,7 @@ public class BinaryTreeEx {
     System.out.println("HEAD : " + myTree.head.value);
     System.out.println("HEAD RIGHT : " + myTree.head.right.value);
     System.out.println("HEAD RIGHT RIGHT : " + myTree.head.right.right.value);
+
     System.out.println("HEAD RIGHT RIGHT RIGHT : " + myTree.head.right.right.right.value);
   }
 

@@ -5,6 +5,9 @@ public class NodeMgmt {
 
   Node head = null;
 
+  public NodeMgmt() {
+  }
+
   public class Node {
 
     Node left;
