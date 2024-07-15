@@ -1,4 +1,4 @@
-package lambda;
+package lambda.day01;
 
 import java.util.ArrayList;
 import java.util.List;

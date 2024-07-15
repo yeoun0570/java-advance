@@ -1,4 +1,4 @@
-package lambda;
+package lambda.day01;
 /*
 * 1. 두 개의 정수를 받아 정수를 반환하는 단일메서드 'operate'가 있는
 *    함수형 인터페이스 MathOperation을 정의
