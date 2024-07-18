@@ -3,6 +3,8 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../data/mysql/mysql-connector-java-8.0.21/mysql-connector-java-8.0.21.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../data/lombok/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../data/json/json-20240303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../data/json/gson/gson-2.11.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

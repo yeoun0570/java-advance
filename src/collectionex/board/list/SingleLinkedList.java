@@ -8,6 +8,7 @@ public class SingleLinkedList<T> {
 
     T data;
     Node<T> next = null;
+    Node<T> prev = null;
 
     public Node(T data) {
       this.data = data;
@@ -22,6 +23,7 @@ public class SingleLinkedList<T> {
       Node<T> node = this.head;
       while (node.next != null) {
         node = node.next;
+        //node.next.prev = node;
       }
       node.next = new Node<T>(data);
     }

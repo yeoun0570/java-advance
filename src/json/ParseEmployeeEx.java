@@ -27,6 +27,7 @@ public class ParseEmployeeEx {
 
     //배열 속성 정보 읽기
     JSONArray skill = root.getJSONArray("skill"); //root의 키 값 skill을 객체로 생성
+
     for(int i = 0; i < skill.length(); i++) { //skill의 인덱스 번호 하나씩 출력
       System.out.println(skill.get(i));
     }

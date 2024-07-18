@@ -26,6 +26,7 @@ public class QueueEx {
     System.out.println(result1);
     Integer result2 = queue_int.poll();
     System.out.println(result2);
+    System.out.println(queue_int);
 
   }
 
